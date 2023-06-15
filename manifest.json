@@ -1,0 +1,12 @@
+{
+    "domain": "saj_cloud",
+    "name": "SAJ Inverter Cloud",
+    "codeowners": ["everton_erik"],
+    "dependencies": [],
+    "documentation": "https://www.home-assistant.io/components/hue",
+    "integration_type": "hub",
+    "iot_class": "cloud_polling",
+    "issue_tracker": "https://github.com/balloob/hue/issues",
+    "requirements": ["requests"],
+    "version": "0.1.0"
+  }
